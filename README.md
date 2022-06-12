@@ -19,7 +19,7 @@
 
 Este repositorio recoge los trabajos de filtrado y procesado del dataset empleado para la práctica, así como el excel de apoyo en el que se han hecho tablas resumen para las visualizaciones.
 
-##__Principales fuentes de datos y archivos:__
+##Principales fuentes de datos y archivos:
 
 1. Fuente de datos: [Kaggle](https://www.kaggle.com/datasets/stefanoleone992/tripadvisor-european-restaurants)
 2. Archivo con operaciones de procesado y filtrado: __PRAC1-2.ipynb__ Fundamentalmente se corresponde con la entrega de la práctica 1 y un pequeño anexo.
