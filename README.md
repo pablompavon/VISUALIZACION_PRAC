@@ -16,3 +16,12 @@
 <div class="alert alert-block alert-info">
 <strong>Nombre y apellidos: Pablo Martínez Pavón</strong>
 </div>
+
+Este repositorio recoge los trabajos de filtrado y procesado del dataset empleado para la práctica, así como el excel de apoyo en el que se han hecho tablas resumen para las visualizaciones.
+
+__Principales fuentes de datos y archivos:__
+
+1. Fuente de datos: [Kaggle](https://www.kaggle.com/datasets/stefanoleone992/tripadvisor-european-restaurants)
+2. Archivo con operaciones de procesado y filtrado: __PRAC1-2.ipynb__ Fundamentalmente se corresponde con la entrega de la práctica 1 y un pequeño anexo.
+3. Archivo con dataset y tablas complementarias: __ExcelApoyo.xlsx__
+4. Visualización de datos: [Visualización PRAC2](https://public.flourish.studio/story/1572727/)
